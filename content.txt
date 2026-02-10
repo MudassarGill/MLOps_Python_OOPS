@@ -1,0 +1,7 @@
+# Here we cover all the topic about python 
+1: Class and obj
+2: A laptop is like a class and this laptop have some feature like
+size, color, brand, price, ram, storage, processor, etc these are method/function
+and now what kind of this laptop meaing is that its name is hp, dell, lenovo, etc
+these are object
+3: 
