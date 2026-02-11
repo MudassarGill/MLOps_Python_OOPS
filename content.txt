@@ -7,8 +7,14 @@ these are object
 3: End to End project about signIn and SignUp
 4: now we cover next topics
   > Inheritance
+    >single inheritance
+    >multiple inheritance
+    >multilevel inheritance
+    >hierarchical inheritance
+    >hybrid inheritance
   > Polymorphism
   > Encapsulation
+    >getter and setter
     >static method
     >instance method
     >class method
